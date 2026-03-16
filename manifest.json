@@ -1,0 +1,40 @@
+{
+  "name": "The Meadery",
+  "short_name": "Meadery",
+  "id": "com.brucewolfe.meadery",
+  "description": "Complete mead brewing toolkit — ABV calculator, recipe builder, nutrient scheduler, batch tracker, and brew journal. Works fully offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0800",
+  "theme_color": "#1a0f00",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["food", "lifestyle", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.brucewolfe.meadery"
+    }
+  ]
+}
